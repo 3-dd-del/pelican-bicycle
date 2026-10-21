@@ -12,7 +12,7 @@
   <a href="https://3-dd-del.github.io/pelican-bicycle/"><img alt="Live demo" src="https://img.shields.io/badge/live-demo-F3C873?style=flat-square"></a>
 </p>
 
-[![鹈鹕骑自行车动画预览](preview.webp)](https://3-dd-del.github.io/pelican-bicycle/)
+[![鹈鹕骑自行车动画预览](preview.png)](https://3-dd-del.github.io/pelican-bicycle/)
 
 ## 这是什么
 
@@ -67,7 +67,7 @@ python -m http.server 8080
 ```text
 .
 ├── index.html    # 完整动画：SVG + CSS + SMIL + JavaScript
-├── preview.webp  # README 预览图
+├── preview.png   # README 预览图
 ├── .nojekyll     # GitHub Pages 跳过 Jekyll
 └── README.md
 ```
